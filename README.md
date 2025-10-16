@@ -108,9 +108,13 @@ void loop() {
 ## IoT Application and Benefits:
 
 1.Optimized collection routes: Waste collection vehicles no longer have to follow fixed routes, making unnecessary trips to empty or partially full bins. 
+
 2.Vehicles are dispatched only when bins are full, significantly reducing fuel consumption, travel time, and labor costs.
+
 3.Dynamic scheduling: Collection schedules can be adjusted based on real-time data and predictive analytics, especially in areas with fluctuating waste generation (e.g., during holidays or events).
+
 4.Reduced operational costs: Savings on fuel and labor from optimized routes lead to lower overall costs for waste management.
+
 5.Predictive maintenance: Sensors can monitor the health of collection vehicles and containers, predicting potential issues before they cause costly breakdowns. 
 
 ## Output:
