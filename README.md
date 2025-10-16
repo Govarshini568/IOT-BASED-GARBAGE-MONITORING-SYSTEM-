@@ -3,6 +3,7 @@
 # Tinkercard link:
 https://www.tinkercad.com/things/hUci0HQJ3sv/editel?returnTo=%2Fdashboard
 
+
 ## Objective of the project:
 The objective of the IoT-based Garbage Monitoring System is to automate waste level detection in bins and notify the concerned authority when the bin is nearly full. This helps maintain cleanliness and optimize waste collection routes, saving both time and resources.
 
