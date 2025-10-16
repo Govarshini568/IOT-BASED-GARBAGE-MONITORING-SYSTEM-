@@ -1,7 +1,7 @@
 # IOT-BASED-GARBAGE-MONITORING-SYSTEM-
 
 # Tinkercard link:
-https://www.tinkercad.com/things/aubj0bRwZN3/editel
+https://www.tinkercad.com/things/hUci0HQJ3sv/editel?returnTo=%2Fdashboard
 
 ## Objective of the project:
 The objective of the IoT-based Garbage Monitoring System is to automate waste level detection in bins and notify the concerned authority when the bin is nearly full. This helps maintain cleanliness and optimize waste collection routes, saving both time and resources.
@@ -118,7 +118,8 @@ void loop() {
 5.Predictive maintenance: Sensors can monitor the health of collection vehicles and containers, predicting potential issues before they cause costly breakdowns. 
 
 ## Output:
-<img width="1915" height="873" alt="image" src="https://github.com/user-attachments/assets/99aa29f2-8b9c-416c-b058-27d1d733bcb1" />
+<img width="1917" height="872" alt="image" src="https://github.com/user-attachments/assets/d55c8737-422a-4166-9405-fd236d28e344" />
+
 
 ## Result :
 This project shows how IoT and Arduino can be used to make waste management smarter and easier. The system checks the garbage level in a bin using an ultrasonic sensor and alerts when the bin is full. It helps reduce manual work, keeps the surroundings clean, and makes garbage collection more efficient.
